@@ -53,7 +53,7 @@ time.sleep(1)
 
 print ("Start guessing...")
 time.sleep(0.5)
-WORDS = ("python", "difficult", "answer",  "xylophone" , 'banana', 'poopoo', 'lebronjames', 'ability' , 'about')
+WORDS = ("python", "difficult", "answer",  "xylophone" , 'banana', 'Hello', 'lebronjames', 'ability' , 'about')
 word = random.choice(WORDS)
 
 
